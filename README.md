@@ -1,5 +1,5 @@
-## Citadel Station 13
-Based and maintained from /tg/station.
+## Jelly Station 13
+Based and maintained from /tg/station, then citadel, then skyrat and now it's JELLY TIME!
 
 [![Build Status](https://api.travis-ci.org/Citadel-Station-13/Citadel-Station-13.png)](https://travis-ci.org/Citadel-Station-13/Citadel-Station-13) 
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Citadel-Station-13/Citadel-Station-13.svg)](http://isitmaintained.com/project/Citadel-Station-13/Citadel-Station-13 "Percentage of issues still open")  
@@ -17,12 +17,12 @@ Based and maintained from /tg/station.
 * ~~**IRC:** <irc://irc.rizon.net/coderbus>~~ (dead)  
 
 **Citadel Station Information**  
-* **Website:** <http://citadel-station.net>
-* **Code:** <https://github.com/Citadel-Station-13/Citadel-Station-13>
-* **Wiki:** <https://citadel-station.net/wiki/index.php?title=Main_Page>
-* **Forums:** <http://citadel-station.net/forum>
-* **Ban Appeals:** <http://citadel-station.net/forum/forumdisplay.php?fid=8>
-* **Discord:**  <https://discord.gg/E6SQuhz>
+* **Website:** do not enter those forbidden zones, you will have bad time
+* **Code:** do not enter those forbidden zones, you will have bad time
+* **Wiki:** do not enter those forbidden zones, you will have bad time
+* **Forums:** do not enter those forbidden zones, you will have bad time
+* **Ban Appeals:** do not enter those forbidden zones, you will have bad time
+* **Discord:**  do not enter those forbidden zones, you will have bad time
   
 ## DOWNLOADING
 
